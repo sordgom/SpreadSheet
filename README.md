@@ -9,8 +9,11 @@
 Here's a link on how to enable GOOGLE SHEETS API !
 #STEP1ONLY
 https://developers.google.com/sheets/api/quickstart/java#step_1_turn_on_the
-#Make sure the credentials.json is inside /src/main/resources
 ***
+
+***run the command to make resources dir: mkdir /src/main/resources***
+
+***move the crededentials.json to src/main/resources***
 
 ***run the command to build dependencies: gradle build***
 
